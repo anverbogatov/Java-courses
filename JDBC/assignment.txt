@@ -1,0 +1,16 @@
+Idea: 
+
+Create DDL queries with schema's creation for the students
+Create DML queries for filling in tables
+
+Task#1:
+Implement service which can deploy required db schmea right from the application
+
+Task#2:
+Implement service which can access information from the tables
+
+Task#3:
+Implement service which can load all the data from database with 
+
+Task#4:
+Group by
