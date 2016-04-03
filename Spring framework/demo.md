@@ -16,3 +16,7 @@ Demo#3: Bean's dependency handling
 2 - Update the service so it would use CurrentDateService for dates calculation
 3 - Setup dependency injection by using @Required annotation
 4 - Update 'application-context.xml' to include new service with required dependency
+
+Demo#4: Working with constructions
+Demo#5: Working with post-init methods
+Demo#6: Working with application properties
