@@ -18,8 +18,8 @@ kind of technology that is a part of Java EE platform's specification.
 5. [DAO pattern](http://www.oracle.com/technetwork/java/dataaccessobject-138824.html). Just a simple description of one of
 enterprise design patterns used in this course.
 6. [Liquibase](http://www.liquibase.org). Database migration tool that is mentioned in this course.
-5. [Intellij IDEA tutorials](https://www.jetbrains.com/idea/documentation/) contains video lessons from the creators of
+7. [Intellij IDEA tutorials](https://www.jetbrains.com/idea/documentation/) contains video lessons from the creators of
 the IDE. In this video lessons you can learn about different techniques that can improve your productivity as a
 software developer.
-6. [Google](https://www.google.com) and [Stackoverflow](http://stackoverflow.com) as the most useful resources for
+8. [Google](https://www.google.com) and [Stackoverflow](http://stackoverflow.com) as the most useful resources for
 problem solving ;).
