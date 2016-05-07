@@ -2,8 +2,8 @@ Java-courses
 ============
 
 Set of presentations and projects intended to bring basic knowledge of Java platform to you.
-Sub-folders contain different materials grouped by technologies. Some of them contain even
-live projects that can be expedited.
+Subfolders contain different materials grouped by technologies. Some of them contain even
+real projects that can be expedited.
 
 ## Useful links (complementary materials):
 1. [Free e-books online](https://it-ebooks.info) allows accessing tons of materials on different
