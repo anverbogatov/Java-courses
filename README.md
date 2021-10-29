@@ -1,8 +1,6 @@
 Java-courses
 ============
 
-![stats](https://github-readme-stats.vercel.app/api?username=anverbogatov)
-
 Set of presentations and projects intended to bring basic knowledge of Java platform to you.
 Subfolders contain different materials grouped by technologies. Some of them contain even
 real projects that can be expedited.
